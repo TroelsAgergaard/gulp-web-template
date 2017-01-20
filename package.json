@@ -1,0 +1,25 @@
+{
+  "name": "gulp-web-template",
+  "version": "0.0.1",
+  "description": "gulp template for php web projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Troels Agergaard",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "github.com/TroelsAgergaard/gulp-web-template"
+  },
+  "keywords": [
+    "Gulp",
+    "NodeJS",
+    "Sass",
+    "php",
+    "template"
+  ],
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
